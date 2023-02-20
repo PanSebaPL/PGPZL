@@ -1,0 +1,128 @@
+body{
+	
+}
+
+.naglowek{
+	height: 50px;
+	background-color: grey;
+	text-align: center;
+	color: white;
+}
+
+.d01{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d02{
+	height: 40px;
+	background-color: red;	
+	color: black;
+}
+.d03{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d04{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d05{
+	height: 40px;
+	background-color: black;	
+	color: black; /*Zmiana koloru*/
+}
+.d06{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d07{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d08{
+	height: 40px;
+	background-color: white;	
+	color: black;
+}
+.d09{
+	height: 47px;
+	background-color: black;	
+	color: white;
+}
+.d09 div{
+	width:50%;
+	margin:auto;
+}
+.d10{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d11{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d12{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d13{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d14{
+	height: 40px;
+	background-color: cyan;	
+	text-align:center;
+	color:red;
+}
+.d15{
+	height: 40px;
+	background-color: red;	
+	color: yellow;
+}
+.pope{
+	height:40px;
+}
+.d16{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d17{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d18{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d1{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+.d19{
+	height: 40px;
+	background-color: yellow;	
+	color: black;
+}
+
+
+
+.stopka{
+	height: 40px;
+
+	background-color: steelblue;	
+	text-align: center;
+}
