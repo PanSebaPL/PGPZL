@@ -62,6 +62,8 @@ body{
 	height: 40px;
 	background-color: yellow;	
 	color: black;
+	text-align:center;
+	font-size:200%;
 }
 .d11{
 	height: 40px;
@@ -90,7 +92,7 @@ body{
 	color: yellow;
 }
 .pope{
-	height:40px;
+	height:250px;
 }
 .d16{
 	height: 40px;
